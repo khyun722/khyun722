@@ -18,6 +18,7 @@
   - 컴퓨터공학 전공(<법학 전공에서 편입)
   - 현재 **백엔드 개발**을 집중적으로 공부 중  
   - 데이터베이스(MySQL)와 클라우드(AWS)에도 관심이 많아요  
+  - 아직 새싹 개발자입니다 🌱
 
 </details>
 
@@ -25,20 +26,19 @@
 
 ## 🦾 Tech Stack  
 
-**Languages & Frameworks**  
+### 💡 Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-FFBFA9?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-95D5B2?style=for-the-badge&logo=springboot&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-95D5B2?style=for-the-badge&logo=springboot&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-FF8C8C?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-90CAF9?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Tools & Infra**  
+### 🛠️ Tools & Infra  
 ![Git](https://img.shields.io/badge/Git-FEBE8C?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-FFE3E3?style=for-the-badge&logo=github&logoColor=black) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-CCD5AE?style=for-the-badge&logo=intellijidea&logoColor=black) 
 ![VSCode](https://img.shields.io/badge/VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white)    
 
-**Studying**  
 ### 📖 Studying
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
