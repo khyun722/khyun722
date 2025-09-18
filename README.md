@@ -15,7 +15,7 @@
   - 게임  🎮
 
   ### 💻 전공
-  - 컴퓨터공학 전공(<법학 전공에서 편입)
+  - 컴퓨터공학 전공(<법학 전공에서 전과)
   - 현재 **백엔드 개발**을 집중적으로 공부 중  
   - 데이터베이스(MySQL)와 클라우드(AWS)에도 관심이 많아요  
   - 아직 새싹 개발자입니다 🌱
@@ -40,10 +40,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-A7C7E7?style=for-the-badge&logo=visualstudiocode&logoColor=white)    
 
 ### 📖 Studying
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
 ## 📊 GitHub Stats
